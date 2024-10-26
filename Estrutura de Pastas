@@ -1,0 +1,9 @@
+/server
+  /models
+    - Product.js
+    - User.js
+  /routes
+    - authRoutes.js
+    - userRoutes.js
+    - productRoutes.js
+  - server.js
